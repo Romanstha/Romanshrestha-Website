@@ -371,7 +371,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 20%;
 }
-.skills-content .right .flutter::before{
+.skills-content .right .Flutter::before{
     width: 50%;
 }
 .skills-content .right .DotNET::before{
